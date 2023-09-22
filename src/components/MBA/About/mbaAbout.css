@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mba_Container {
+    margin: 0px 8rem;
+}
+.img_content{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_content .mbaImg img{
+    max-width: 300px;
+}
+
+.mbaP p{
+    font-size: 1.5rem;
+    line-height: 40px;
+}
+.v_mContant{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vmImg{
+    max-width: 300px;
+   max-height: 250px;
+}
+.mba_vision, .mba_mision{
+    width: 45%;
+   
+   
+}
+.viImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
